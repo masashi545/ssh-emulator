@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "name": "oda",
+            "pub-key": "pub",
+            "sec-key": "sec"
+        },
+        {
+            "name": "tada",
+            "pub-key": "pub",
+            "sec-key": "sec"
+        }
+    ]
+}
